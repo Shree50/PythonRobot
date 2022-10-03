@@ -1,0 +1,25 @@
+<webucatorTestData>
+    <url>https://www.webucator.com/</url>
+    <pageTitle>Online and Onsite Instructor-led Training Classes | Webucator</pageTitle>
+    <chromepath>C:/New Softwares/chromedriver_win32/chromedriver.exe</chromepath>
+    <Featured_Courses_header>Featured Courses</Featured_Courses_header>
+    <Featured_Courses_subtext>Our public classes</Featured_Courses_subtext>
+    <Featured_Courses1_title>Introduction to SQL Training</Featured_Courses1_title>
+    <Featured_Courses1_duration>2 days</Featured_Courses1_duration>
+    <Featured_Courses1_class>Oct 20</Featured_Courses1_class>
+
+    <Featured_Courses1_title>SharePoint 2019 Power User Training</Featured_Courses1_title>
+    <Featured_Courses1_duration>2 days</Featured_Courses1_duration>
+    <Featured_Courses1_class>Nov 10</Featured_Courses1_class>
+
+    <Featured_Courses1_title>Introduction to Microsoft Excel</Featured_Courses1_title>
+    <Featured_Courses1_duration>1 day</Featured_Courses1_duration>
+    <Featured_Courses1_class>Oct 20</Featured_Courses1_class>
+
+    <Logoaltvalue>Webucator Logo</Logoaltvalue>
+    <About_us_header>About Us</About_us_header>
+    <About_us_sublinks>Contact Us, About Webucator, Client Testimonials, Client List, Privacy Policy, In The Community, Train for Us,
+    Cancellation Policy, Make a Payment</About_us_sublinks>
+
+
+</webucatorTestData>

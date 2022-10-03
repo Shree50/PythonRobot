@@ -1,0 +1,15 @@
+<fleektestdata>
+    <url>https://www.fleekitsolutions.com/</url>
+    <browser>Chrome</browser>
+    <logo>//img[@class='mobile']</logo>
+    <fleektopmenubar>About,Services,Verticals,Portfolio,Blogs,Contact Us</fleektopmenubar>
+    <servicessubmenuoption>Core QA Services,Test automation,Mobile app testing,Performance testing,Accessibility Testing,Design and Development,Digital Marketing</servicessubmenuoption>
+    <firstname>shree</firstname>
+    <lastname>vallabh</lastname>
+    <email>shree99@gm.com</email>
+    <phone>0028282828</phone>
+    <subject>automation</subject>
+    <message>learning python selenium</message>
+
+
+</fleektestdata>

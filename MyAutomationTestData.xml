@@ -1,0 +1,7 @@
+<sbibanktesting>
+    <applicationUrl>https://www.sbi.com</applicationUrl>
+    <userId>testUser</userId>
+    <password>test123</password>
+    <userEmail>test@sbi.com</userEmail>
+
+</sbibanktesting>
