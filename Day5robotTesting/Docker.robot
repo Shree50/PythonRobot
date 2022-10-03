@@ -7,6 +7,7 @@ Library    XML
 #   This is for testing1
 ${testurl}      https://www.docker.com/
 ${browser}      Chrome
+#   url variables
 ${gettingStartedUrl}        https://www.docker.com/get-started/
 ${dockeratomistimagetitle}      Docker Acquires Atomist
 ${newwindowurl}     https://twitter.com/docker
